@@ -1,0 +1,1 @@
+This project was initialized as a class requirement for a computer science course. The application is used to manage and display patient information for primary care givers and physicians.
